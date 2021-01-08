@@ -3,7 +3,7 @@
         left: 300px;
         top: 50px;
 * align-items
-정렬 위치? 같이 이동
+정렬 위치? 같이 이동ddd
 https://developer.mozilla.org/en-US/docs/Web/CSS/align-items
 
 * justify-content
