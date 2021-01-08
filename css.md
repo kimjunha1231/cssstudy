@@ -1,4 +1,4 @@
-위아래
+위 아래
 * position: relative;
         left: 300px;
         top: 50px;
